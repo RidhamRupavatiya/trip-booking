@@ -1,0 +1,15 @@
+.common_section{
+    background: linear-gradient(rgba(0,0,0,0.30),rgba(0,0,0,0.30)),
+        url('../assets/images/LakshadWeep.jpg') no-repeat center center;
+    background-size: cover;
+    height: 300px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    text-align: center;
+}
+
+.common_section h1{
+    font-style: 2.5rem;
+    color: #fff;
+}
